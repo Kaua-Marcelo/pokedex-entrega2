@@ -1,31 +1,32 @@
-    <h1 align="center"> Pokedex </h1>
+<h1 align="center"> Pokedex </h1>
 
-    <p align="center">
-    Projeto UniAmérica, desenvolvimento WEB <br/>
-    </p>
+<p align="center">
+Projeto UniAmérica, desenvolvimento WEB <br/>
+</p>
 
-    <p align="center">
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-    </p>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 
-    <br>
+</p>
 
-    <p align="center">
-    <img alt="Projeto Pokedex" src="./assets/Protótipo/readme.png" width="100%">
-    </p>
+<br>
 
-    ## 🚀 Tecnologias
+<p align="center">
+  <img alt="Projeto Pokedex" src="./assets/Protótipo/readme.png" width="100%">
+</p>
 
-    Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Tecnologias
 
-    - HTML e CSS
-    - JavaScript
-    - Git e Github
-    - Figma
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-    ## 💻 Projeto
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-    A pokedex é um local onde o usuário pode obter informações sobre Pokemons.
+## 💻 Projeto
 
-    ---
+A pokedex é um local onde o usuário pode obter informações sobre Pokemons.
+
+---
