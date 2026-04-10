@@ -6,7 +6,9 @@ const pokemons = [
      category: ["Lizard"],
      weight: 8.5,
      height: 0.6,
-     weakness: ["Water", "Rock", "Ground"]
+     weakness: ["Water", "Rock", "Ground"],
+     about: "A chama na ponta de sua calda indica sua força vital, quando brilha intensamente, significa que está saudável, se enfraquece, seu estado é preocupante. Mesmo sendo naturalmente dócil, pode se tornar feroz em batalhas, soltando poderosas chamas contra seus oponentes.",
+     image: "./assets/Charmander.png"
     },
     {
      id: 2,
@@ -15,7 +17,9 @@ const pokemons = [
      category: ["Tiny Turtle"],
      weight: 9.0,
      height: 0.5,
-     weakness: ["Electric", "Grass"]
+     weakness: ["Electric", "Grass"],
+     about: "", // As demais descrições serão adicionadas posteriormente
+     image: "./assets/Squirtle.png"
     },
     {
      id: 3,
@@ -24,7 +28,9 @@ const pokemons = [
      category: ["Genetic"],
      weight: 122.0,
      height: 2.0,
-     weakness: ["Bug", "Ghost", "Dark"]
+     weakness: ["Bug", "Ghost", "Dark"],
+     about: "",
+     image: "./assets/Mewtwo.png"
     },
     {
      id: 4,
@@ -33,7 +39,9 @@ const pokemons = [
      category: ["Sleeping"],
      weight: 460.0,
      height: 2.1,
-     weakness: ["Fighting"]
+     weakness: ["Fighting"],
+     about: "",
+     image: "./assets/Snorlax.png"
     },
     {
      id: 5,
@@ -42,7 +50,9 @@ const pokemons = [
      category: ["Mouse"],
      weight: 6.0,
      height: 0.4,
-     weakness: ["Ground"]
+     weakness: ["Ground"],
+     about: "",
+     image: "./assets/Pikachu.png"
     },
     {
      id: 6,
@@ -51,7 +61,9 @@ const pokemons = [
      category: ["Lightning"],
      weight: 24.5,
      height: 0.8,
-     weakness: ["Ground"]
+     weakness: ["Ground"],
+     about: "",
+     image: "./assets/Jolteon.png"
     },
     {
      id: 7,
@@ -60,7 +72,9 @@ const pokemons = [
      category: ["Puppy"],
      weight: 19.0,
      height: 0.7,
-     weakness: ["Water", "Rock", "Ground"]
+     weakness: ["Water", "Rock", "Ground"],
+     about: "",
+     image: "./assets/Growlithe.png"
     },
     {
      id: 8,
@@ -69,7 +83,9 @@ const pokemons = [
      category: ["Poison Pin"],
      weight: 20.0,
      height: 0.8,
-     weakness: ["Ground", "Psychic"]
+     weakness: ["Ground", "Psychic"],
+     about: "",
+     image: "./assets/Nidorina.png"
     },
     {
      id: 9,
@@ -78,7 +94,9 @@ const pokemons = [
      category: ["Seed"],
      weight: 6.9,
      height: 0.7,
-     weakness: ["Fire", "Ice", "Flying", "Psychic"]
+     weakness: ["Fire", "Ice", "Flying", "Psychic"],
+     about: "",
+     image: "./assets/Bulbasaur.png"
     },
     {
      id: 10,
@@ -87,6 +105,8 @@ const pokemons = [
      category: ["Flame"],
      weight: 19.0,
      height: 1.1,
-     weakness: ["Water", "Rock", "Ground"]
+     weakness: ["Water", "Rock", "Ground"],
+     about: "",
+     image: "./assets/Charmeleon.png"
     }
 ]
