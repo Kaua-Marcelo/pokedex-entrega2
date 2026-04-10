@@ -29,11 +29,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A pokedex é um local onde o usuário pode obter informações sobre Pokemons.
 
-## Desenvolvido Por:
+<p align="center">
+Desenvolvido por:<br/>
+</p>
 
-Kauã Marcelo
-Gabriel Fukuro
-Giovany Emanuel
-Samuel Vieira
+<p align="center">
+  <a>Kauã Marcelo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Gabriel Fukuro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Giovany Emanuel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Samuel Vieira</a>&nbsp;&nbsp;&nbsp;
+
+</p>
 
 ---
