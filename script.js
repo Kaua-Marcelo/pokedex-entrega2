@@ -18,7 +18,7 @@ const pokemons = [
      weight: 9.0,
      height: 0.5,
      weakness: ["Electric", "Grass"],
-     about: "", // As demais descrições serão adicionadas posteriormente
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", // As demais descrições serão adicionadas posteriormente
      image: "./assets/Squirtle.png"
     },
     {
@@ -29,7 +29,7 @@ const pokemons = [
      weight: 122.0,
      height: 2.0,
      weakness: ["Bug", "Ghost", "Dark"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Mewtwo.png"
     },
     {
@@ -40,7 +40,7 @@ const pokemons = [
      weight: 460.0,
      height: 2.1,
      weakness: ["Fighting"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Snorlax.png"
     },
     {
@@ -51,7 +51,7 @@ const pokemons = [
      weight: 6.0,
      height: 0.4,
      weakness: ["Ground"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Pikachu.png"
     },
     {
@@ -62,7 +62,7 @@ const pokemons = [
      weight: 24.5,
      height: 0.8,
      weakness: ["Ground"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Jolteon.png"
     },
     {
@@ -73,7 +73,7 @@ const pokemons = [
      weight: 19.0,
      height: 0.7,
      weakness: ["Water", "Rock", "Ground"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Growlithe.png"
     },
     {
@@ -84,7 +84,7 @@ const pokemons = [
      weight: 20.0,
      height: 0.8,
      weakness: ["Ground", "Psychic"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Nidorina.png"
     },
     {
@@ -95,7 +95,7 @@ const pokemons = [
      weight: 6.9,
      height: 0.7,
      weakness: ["Fire", "Ice", "Flying", "Psychic"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Bulbasaur.png"
     },
     {
@@ -106,7 +106,7 @@ const pokemons = [
      weight: 19.0,
      height: 1.1,
      weakness: ["Water", "Rock", "Ground"],
-     about: "",
+     about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
      image: "./assets/Charmeleon.png"
     }
 ]
