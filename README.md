@@ -29,6 +29,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A pokedex é um local onde o usuário pode obter informações sobre Pokemons.
 
+
+## 🎨 Design (Figma)
+
+Acesse o layout do projeto no Figma:
+https://www.figma.com/design/xd3dk3vdhwL7HE3bDAv8nK/Sem-t%C3%ADtulo?node-id=19-116&t=cyjRvEWvUQLgSlIn-1
+
+
+
 <p align="center">
 Desenvolvido por:<br/>
 </p>
