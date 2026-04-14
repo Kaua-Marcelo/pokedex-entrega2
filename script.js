@@ -18,6 +18,7 @@ const pokemons = [
        weight: 19.0,
        height: 1.1,
        weakness: ["Water", "Rock", "Ground"],
+       about: "Charmeleon é um Pokémon agressivo e cruel. Quando encontra um oponente poderoso, sua cauda fica brilhante em vermelho vivo e ele se torna ainda mais violento.",
        image: "./assets/Charmeleon.png"
       },
       {
@@ -28,6 +29,7 @@ const pokemons = [
        weight: 90.5,
        height: 1.7,
        weakness: ["Water", "Electric", "Rock"],
+       about: "Charizard voa pelo céu em busca de oponentes poderosos. Suas chamas são tão intensas que podem derreter qualquer coisa. Nunca cospe fogo em oponentes mais fracos.",
        image: "./assets/Charizard.png"
       }
      ]
@@ -51,6 +53,7 @@ const pokemons = [
        weight: 22.5,
        height: 1.0,
        weakness: ["Electric", "Grass"],
+       about: "Wartortle é considerado um símbolo de longevidade. Sua cauda peluda escurece com a idade e é muito popular entre os humanos.",
        image: "./assets/Wartortle.png"
       },
       {
@@ -61,6 +64,7 @@ const pokemons = [
        weight: 85.5,
        height: 1.6,
        weakness: ["Electric", "Grass"],
+       about: "Blastoise possui canhões d'água em sua carapaça que disparam jatos com precisão cirúrgica. A pressão da água é capaz de perfurar aço.",
        image: "./assets/Blastoise.png"
       }
      ]
@@ -108,6 +112,7 @@ const pokemons = [
        weight: 30.0,
        height: 0.8,
        weakness: ["Ground"],
+       about: "Raichu pode descarregar 100.000 volts de eletricidade. Se acumular muita energia, fica agressivo. Sua cauda serve de aterramento para evitar choques em si mesmo.",
        image: "./assets/Raichu.png"
       }
      ]
@@ -143,6 +148,7 @@ const pokemons = [
        weight: 155.0,
        height: 1.9,
        weakness: ["Water", "Rock", "Ground"],
+       about: "Arcanine é conhecido por sua velocidade lendária. É capaz de percorrer 10.000 km em um único dia e uma noite. Sua bela aparência e coragem impressionam todos que o veem.",
        image: "./assets/Arcanine.png"
       }
      ]
@@ -166,6 +172,7 @@ const pokemons = [
        weight: 60.0,
        height: 1.3,
        weakness: ["Water", "Ice", "Psychic", "Ground"],
+       about: "Nidoqueen é muito protetora de seus filhotes. Sua armadura de escamas é extremamente dura e seus movimentos corporais são poderosos o suficiente para derrubar um edifício.",
        image: "./assets/Nidoqueen.png"
       }
      ]
@@ -189,6 +196,7 @@ const pokemons = [
        weight: 13.0,
        height: 1.0,
        weakness: ["Fire", "Ice", "Flying", "Psychic"],
+       about: "Quando o bulbo nas costas de Ivysaur cresce, ele não consegue mais ficar de pé nas patas traseiras. O bulbo absorve luz solar e libera um aroma agradável.",
        image: "./assets/Ivysaur.png"
       },
       {
@@ -199,6 +207,7 @@ const pokemons = [
        weight: 100.0,
        height: 2.0,
        weakness: ["Fire", "Ice", "Flying", "Psychic"],
+       about: "A flor nas costas de Venusaur exala um aroma suave que atrai Pokémons. Sua fragância acalma emoções de pessoas em conflito.",
        image: "./assets/Venusaur.png"
       }
      ]
@@ -222,6 +231,7 @@ const pokemons = [
        weight: 90.5,
        height: 1.7,
        weakness: ["Water", "Electric", "Rock"],
+       about: "Charizard voa pelo céu em busca de oponentes poderosos. Suas chamas são tão intensas que podem derreter qualquer coisa. Nunca cospe fogo em oponentes mais fracos.",
        image: "./assets/Charizard.png"
       }
      ]
