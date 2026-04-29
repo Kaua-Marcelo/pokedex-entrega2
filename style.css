@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Press Start 2P', monospace;
 }
 
 body{
@@ -9,6 +10,7 @@ body{
     background-position: center;
     background-repeat:  no-repeat;
     min-height: 100dvh;
+    background-attachment: fixed
 }
 
 #overview {
@@ -33,7 +35,6 @@ body{
 }
 
 .header-title {
-    font-family: 'Press Start 2P', monospace;
     margin: 0;
     font-size: 64px;
 }
@@ -47,4 +48,19 @@ body{
   width: 200px;
   display: flex;
   justify-content: flex-end;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100dvh;
+    padding: 24px
+}
+
+#overview-content {
+    background-color: rgba(255, 255, 255, 0.70);
+    border-radius: 25px;
+    text-align: center;
+    width: 1270px;
 }
